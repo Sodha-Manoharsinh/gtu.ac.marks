@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/gtu.ac.marks/static/css/main.2f114d44.css",
+    "main.js": "/gtu.ac.marks/static/js/main.68f99fa7.js",
+    "static/js/453.515b1957.chunk.js": "/gtu.ac.marks/static/js/453.515b1957.chunk.js",
+    "static/media/doge.png": "/gtu.ac.marks/static/media/doge.0f25725d4657d2ead1ac.png",
+    "static/media/thumps_up.png": "/gtu.ac.marks/static/media/thumps_up.6b47a426a870326941b4.png",
+    "static/media/logo.png": "/gtu.ac.marks/static/media/logo.0c5722bb0000018a2db1.png",
+    "index.html": "/gtu.ac.marks/index.html",
+    "main.2f114d44.css.map": "/gtu.ac.marks/static/css/main.2f114d44.css.map",
+    "main.68f99fa7.js.map": "/gtu.ac.marks/static/js/main.68f99fa7.js.map",
+    "453.515b1957.chunk.js.map": "/gtu.ac.marks/static/js/453.515b1957.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f114d44.css",
+    "static/js/main.68f99fa7.js"
+  ]
+}
